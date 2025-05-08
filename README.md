@@ -7,22 +7,29 @@
 <section>
 <div class="container">
     <p>El chatbot Gaby v-1.0 permite comunicarse en tiempo real con la API de la AI Gemini en su versión 2.0 flash (versión Gratuita).</p>
-    <p>Cuenta con un selector de módulo para seleccionar la AI con la que se quiere interactuar, y una casilla donde para escribir el chat . </p>
+    <p>Cuenta con un selector de módulo para seleccionar la AI con la que se quiere interactuar, y una casilla donde poder escribir el chat . </p>
 </div>
+    
 <div class="container">
-    <h4>URL Base</4>
-    <p>https://api.nasa.gov/</p>
+    <h4>Virtual environment</4>
+    <li>pip install virtualenv</li>
 </div>
 
 <div class="container">
-    <h4>GET</4>
-    <p>https://api.nasa.gov/planetary/apod</p>
-     <p>La documentación completa de esta API se puede encontrar en el repositorio... https://github.com/nasa/apod-api </p>
+    <h4>virtual environment activation</4>
+    <p>\venv\Scripts\activate</p>
+</div>
+        
+<div class="container">
+    <h4>Library</4>
+    <li>pip install flet</li>
+    <li>pip instalar google-generativeai</li>
+    <li></li>pip instalar python-dotenv</li>
 </div>
 
-  <div class="container">
-    <h4>Repositore</4>
-     <p>https://github.com/nasa/apod-api </p>
+<div class="container">
+    <h4>URL</4>
+    <p>"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GEMINI_API_KEY" \</p>
 </div>
 </section>
 
@@ -33,8 +40,6 @@
 
 <div class="container my-2">
     <li>Para arrancar el servidor, ingresar a la terminal de VSC y colocar el comando:</li> 
-        <p> >python manage.py runserver </p>
-    <li>Luego ingresar al navegador web Google Chrome con la dirección Ip:</li>
-        <p>http://127.0.0.1:8000</p>
+        <p>python gemini.py</p>
 </div>
 </footer>
