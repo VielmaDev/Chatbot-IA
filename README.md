@@ -30,14 +30,14 @@
 
 <div class="container">
     <h4>URL:</4>
-    <p>"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GEMINI_API_KEY"</p>
+    <ol>"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GEMINI_API_KEY"</ol>
 </div>
 </section>
 
 <div class="container">
     <h4>Note:</4>
-    <p>Para interactuar con Gemini AI, se debe registrar y solicitar una API_KEY en:</p>
-        <p>https://ai.google.dev/aistudio?hl=es-419</p>
+    <ol>Para interactuar con Gemini AI, se debe registrar y solicitar una API_KEY en:</ol>
+        <ol>https://ai.google.dev/aistudio?hl=es-419</ol>
 </div>
 
 <footer>
