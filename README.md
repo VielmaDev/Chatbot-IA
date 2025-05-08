@@ -6,7 +6,7 @@
 
 <section>
 <div class="container">
-    <p>El chatbot Gaby v-1.0 permite comunicarse en tiempo real con la API de Gemini AI en su versión 2.0 flash (versión Gratuita).</p>
+    <p>El chatbot Gaby v-1.0 se conecta con la API de Gemini AI en su versión 2.0 flash (versión Gratuita), y en tiempo real permite mantener un chat.</p>
     <p>Cuenta con un selector de módulo para seleccionar la AI con la que se quiere interactuar, una casilla donde poder escribir el chat, así como, un contenedor para ver las 
         respuesta de la AI. </p>
 </div>
@@ -33,6 +33,12 @@
     <p>"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GEMINI_API_KEY"</p>
 </div>
 </section>
+
+<div class="container">
+    <h4>Note:</4>
+    <p>Para interactuar con Gemini AI, se debe registrar y solicitar una API_KEY en:</p>
+        <a>https://ai.google.dev/aistudio?hl=es-419</a>
+</div>
 
 <footer>
 <div class="container my-2">
