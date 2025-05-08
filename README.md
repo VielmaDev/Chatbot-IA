@@ -35,17 +35,17 @@
 </div>
 
 <div class="container">
-    <h4>URL:</4>
-    <ol>"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GEMINI_API_KEY"</ol>
-</div>
-</section>
-
-<div class="container">
-    <h4>Note:</4>
+    <h4>API_KEY:</4>
     <ol>Para interactuar con Gemini AI, se debe registrar y solicitar una API_KEY en:</ol>
         <ol>https://ai.google.dev/aistudio?hl=es-419</ol>
 </div>
 
+<div class="container">
+    <h4>URL:</4>
+    <ol>"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GEMINI_API_KEY"</ol>
+</div>
+</section>
+        
 <footer>
 <div class="container my-2">
     <h4>Technical aspects:</h4>
