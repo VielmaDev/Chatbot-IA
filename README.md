@@ -46,7 +46,7 @@
 </div>
 
 <div class="container my-2">
-    <p>Arrancar el servidor ingresando a la terminal de VSCode y colocar el comando:</p> 
+    <ul>Arrancar el servidor ingresando a la terminal de VSCode y colocar el comando:</ul> 
         <li>python gemini.py</li>
 </div>
 </footer>
