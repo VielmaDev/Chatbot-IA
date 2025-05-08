@@ -46,6 +46,6 @@
 </div>
 
 <div class="container my-2">
-    <ol>Para inicializar el chatbot, se debe ingresar a la terminal de VSCode y usar el comando: <em>python gemini.py</em></ol> 
+    <ol>Para inicializar el chatbot, se debe ingresar a la terminal de VSCode y usar el comando: <b>python gemini.py</b></ol> 
 </div>
 </footer>
