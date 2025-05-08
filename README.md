@@ -19,30 +19,29 @@
     
 <div class="container">
     <h4>Virtual environment:</4>
-    <li>pip install virtualenv</li>
+        <li>pip install virtualenv</li>
 </div>
 
 <div class="container">
     <h4>virtual environment activation:</4>
-    <p>\venv\Scripts\activate</p>
+        <li>\venv\Scripts\activate</li>
 </div>
         
 <div class="container">
     <h4>Library:</4>
-    <li>pip install flet</li>
-    <li>pip instalar google-generativeai</li>
-    <li>pip instalar python-dotenv</li>
+        <li>pip install flet</li>
+        <li>pip instalar google-generativeai</li>
+        <li>pip instalar python-dotenv</li>
 </div>
 
 <div class="container">
     <h4>API_KEY:</4>
-    <ol>Para interactuar con Gemini AI, se debe registrar y solicitar una API_KEY en:</ol>
-        <ol>https://ai.google.dev/aistudio?hl=es-419</ol>
+    <ol>Para interactuar con Gemini AI, se debe registrar y solicitar una API_KEY en: https://ai.google.dev/aistudio?hl=es-419</ol>
 </div>
 
 <div class="container">
     <h4>URL:</4>
-    <ol>"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GEMINI_API_KEY"</ol>
+        <ol>"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GEMINI_API_KEY"</ol>
 </div>
 </section>
         
@@ -53,6 +52,6 @@
 
 <div class="container my-2">
     <ol>Arrancar el servidor ingresando a la terminal de VSCode y colocar el comando:</ol> 
-        <li>python gemini.py</li>
+        <ol>python gemini.py</ol>
 </div>
 </footer>
