@@ -12,7 +12,7 @@
 </div>
 
 <div class="container">
-    <h4>lenguage and framework:</4>
+    <h4>Lenguage and Framework:</4>
     <li>Python</li>
     <li>Flet</li>
 </div>
