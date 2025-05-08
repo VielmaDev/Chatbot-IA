@@ -6,7 +6,7 @@
 
 <section>
 <div class="container">
-    <p>El chatbot Gaby v-1.0 se conecta con la API de Gemini AI en su versión 2.0 flash (versión Gratuita), y en tiempo real permite mantener un chat.</p>
+    <p>El chatbot Gaby v-1.0 se conecta con la API de Gemini AI en su versión 2.0 flash, en tiempo real permite mantener un chat y hacer preguntas.</p>
     <p>Cuenta con un selector de módulo para seleccionar la AI con la que se quiere interactuar, una casilla donde poder escribir el chat, así como, un contenedor para ver las 
         respuesta de la AI. </p>
 </div>
@@ -46,7 +46,7 @@
 </div>
 
 <div class="container my-2">
-    <ul>Arrancar el servidor ingresando a la terminal de VSCode y colocar el comando:</ul> 
+    <ol>Arrancar el servidor ingresando a la terminal de VSCode y colocar el comando:</ol> 
         <li>python gemini.py</li>
 </div>
 </footer>
