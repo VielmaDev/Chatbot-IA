@@ -13,8 +13,8 @@
 
 <div class="container">
     <h4>lenguage and framework:</4>
-    <ol>Python</ol>
-    <ol>Flet</ol>
+    <li>Python</li>
+    <li>Flet</li>
 </div>
     
 <div class="container">
