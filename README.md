@@ -10,6 +10,12 @@
     <p>Cuenta con un selector de módulo para seleccionar la AI con la que se quiere interactuar, una casilla donde poder escribir el chat, así como, un contenedor para ver las 
         respuesta de la AI. </p>
 </div>
+
+<div class="container">
+    <h4>lenguage and framework:</4>
+    <ol>Python</ol>
+    <ol>Flet</ol>
+</div>
     
 <div class="container">
     <h4>Virtual environment:</4>
