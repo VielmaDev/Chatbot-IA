@@ -37,7 +37,7 @@
 <div class="container">
     <h4>Note:</4>
     <p>Para interactuar con Gemini AI, se debe registrar y solicitar una API_KEY en:</p>
-        <a>https://ai.google.dev/aistudio?hl=es-419</a>
+        <p>https://ai.google.dev/aistudio?hl=es-419</p>
 </div>
 
 <footer>
