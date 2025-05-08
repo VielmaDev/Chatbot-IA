@@ -29,7 +29,7 @@
 </div>
 
 <div class="container">
-    <h4>URL</4>
+    <h4>URL:</4>
     <p>"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GEMINI_API_KEY"</p>
 </div>
 </section>
@@ -46,7 +46,7 @@
 </div>
 
 <div class="container my-2">
-    <li>Arrancar el servidor, ingresando a la terminal de VSCode y colocar el comando:</li> 
+    <li>Arrancar el servidor ingresando a la terminal de VSCode y colocar el comando:</li> 
         <p>python gemini.py</p>
 </div>
 </footer>
