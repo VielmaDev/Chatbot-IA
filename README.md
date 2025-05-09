@@ -11,26 +11,26 @@
 </div>
 
 <div class="container">
-    <h3>Aspectos Técnicos</h3>
+    <h3>Aspectos Técnicos:</h3>
 </div>
 
 <div class="container">
-    <h4>Framework:</4>
+    <h4>Framework</4>
     <li>Flet</li>
 </div>
 
 <div class="container">
-    <h4>AI:</4>
+    <h4>AI</4>
     <li>Google Gemini AI versión 2.0 flash</li>
 </div>
 
 <div class="container">
-    <h4>API_KEY:</4>
-    <li>Registro y solicitud de API_KEY en: https://ai.google.dev/aistudio?hl=es-419</li>
+    <h4>API_KEY</4>
+    <li>Registro y solicitud de API_KEY en <br> https://ai.google.dev/aistudio?hl=es-419</li>
 </div>
 
 <div class="container">
-    <h4>Library:</4>
+    <h4>Library</4>
         <li>pip install flet</li>
         <li>pip install virtualenv</li>
         <li>pip instalar google-generativeai</li>
@@ -45,10 +45,10 @@
         
 <footer>
 <div class="container my-2">
-    <h4>Runserver:</h4>
+    <h4>Runserver</h4>
 </div>
 
 <div class="container my-2">
-    <ol>Para inicializar el chatbot, se debe ingresar a la terminal de VSCode y usar el comando: <mark>python gemini.py</mark></ol> 
+    <li>Para inicializar el chatbot, se debe ingresar a la terminal de VSCode y usar el comando: <mark>python gemini.py</mark></li> 
 </div>
 </footer>
