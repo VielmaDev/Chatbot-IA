@@ -6,9 +6,8 @@
 
 <section>
 <div class="container">
-    <p>El chatbot Gaby v-1.0 se conecta con la API de Gemini AI en su versión 2.0 flash, en tiempo real permite mantener un chat y hacer preguntas.</p>
-    <p>Cuenta con un selector de módulo para seleccionar la AI con la que se quiere interactuar, una casilla donde poder escribir el chat, así como, un contenedor para ver las 
-        respuesta de la AI. </p>
+    <p>La app Gaby es un Chatbot sencillo que se conecta con la AI de Google llamada Gemini y permite mantener en tiempo real un chat de preguntas y respuestas.</p>
+    <p>Este Chatbot cuenta con un selector de módulos,así como, un contenedor que permite escribir y ver los chats que se mantienen con la AI. </p>
 </div>
 
 <div class="container">
