@@ -45,7 +45,7 @@
         
 <footer>
 <div class="container my-2">
-    <h4>Run:</h4>
+    <h4>Runserver:</h4>
 </div>
 
 <div class="container my-2">
