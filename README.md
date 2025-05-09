@@ -25,7 +25,7 @@
 </div>
 
 <div class="container">
-    <h4>API_KEY:</4>
+    <h4>URL API:</4>
         <li>Registro y solicitud de API_KEY en https://ai.google.dev/aistudio?hl=es-419</li>
 </div>
 
@@ -44,8 +44,8 @@
 </section>
         
 <footer>
-<div class="container">
-    <h4>Runserver:</h4>
-         <li>En la terminal de VSCode usar el comando: <mark>python gemini.py</mark></li> 
-</div>
+    <div class="container">
+        <h4>Runserver:</h4>
+             <li>En la terminal de VSCode usar el comando: <b>python gemini.py </li> 
+    </div>
 </footer>
