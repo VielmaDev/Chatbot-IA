@@ -1,6 +1,6 @@
 <caption>
-    <div class="container" style="text-aling:center";>
-        <h1>Chatbot GABY v-1.0</h1>
+    <div class="container">
+        <h1>Chatbot GABY</h1>
     </div>
 </caption>
 
