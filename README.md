@@ -26,7 +26,7 @@
 
 <div class="container my-2">
     <h4>API_KEY</4>
-        <li>Registro y solicitud de API_KEY en <br> https://ai.google.dev/aistudio?hl=es-419</li>
+        <li>Registro y solicitud de API_KEY en https://ai.google.dev/aistudio?hl=es-419</li>
 </div>
 
 <div class="container my-2">
