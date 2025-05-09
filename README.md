@@ -38,7 +38,7 @@
 </div>
 
 <div class="container">
-    <h4>virtual environment activation:</4>
+    <h4>Virtual environment:</4>
         <li>\venv\Scripts\activate</li>
 </div>
 </section>
