@@ -19,7 +19,7 @@
     <li>Flet</li>
 </div>
 
-div class="container">
+<div class="container">
     <h4>AI:</4>
     <ol>Gemini AI versión 2.0 flash</ol>
 </div>
