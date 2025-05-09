@@ -10,13 +10,17 @@
     <p>Este Chatbot cuenta con un selector de módulos,así como, un contenedor que permite escribir y ver los chats que se mantienen con la AI. </p>
 </div>
 
+<div class="container my-2">
+    <h4>Technical aspects</h4>
+</div>
+
 <div class="container">
     <h4>Framework:</4>
     <li>Flet</li>
 </div>
 
 <div class="container">
-    <h4>AI | API_KEY:</4>
+    <h4>AI / API_KEY:</4>
     <ol>Para interactuar con Gemini AI, se debe registrar y solicitar una API_KEY en: https://ai.google.dev/aistudio?hl=es-419</ol>
 </div>
 
@@ -36,7 +40,7 @@
         
 <footer>
 <div class="container my-2">
-    <h4>Technical aspects:</h4>
+    <h4>Run:</h4>
 </div>
 
 <div class="container my-2">
