@@ -11,7 +11,7 @@
 </div>
 
 <div class="container my-2">
-    <h4><b>Technical aspects</b></h4>
+    <h5>Technical aspects</h5>
 </div>
 
 <div class="container">
