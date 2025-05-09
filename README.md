@@ -10,8 +10,8 @@
     <p>Este Chatbot cuenta con un selector de módulos, así como, un contenedor que permite escribir y ver los chats que se mantienen con la AI. </p>
 </div>
 
-<div class="container my-2">
-    <h5>Technical aspects</h5>
+<div class="container">
+    <h4>Technical aspects</h4>
 </div>
 
 <div class="container">
