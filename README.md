@@ -14,11 +14,6 @@
     <h4>Framework:</4>
     <li>Flet</li>
 </div>
-    
-<div class="container">
-    <h4>Virtual environment:</4>
-        <li>pip install virtualenv</li>
-</div>
 
 <div class="container">
     <h4>virtual environment activation:</4>
@@ -33,6 +28,7 @@
 <div class="container">
     <h4>Library:</4>
         <li>pip install flet</li>
+        <li>pip install virtualenv</li>
         <li>pip instalar google-generativeai</li>
         <li>pip instalar python-dotenv</li>
 </div>
