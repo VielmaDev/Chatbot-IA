@@ -16,30 +16,30 @@
 
 <div class="container">
     <h4>Framework:</h4>
-        <li>Flet</li>
+        <li>Flet </li>
 </div>
 
 <div class="container">
     <h4>AI:</4>
-        <li>Google Gemini AI versión 2.0 flash</li>
+        <li>Google Gemini AI versión 2.0 flash </li>
 </div>
 
 <div class="container">
     <h4>URL API:</4>
-        <li>Registro y solicitud de API_KEY en https://ai.google.dev/aistudio?hl=es-419</li>
+        <li>Registro y solicitud de API_KEY en https://ai.google.dev/aistudio?hl=es-419 </li>
 </div>
 
 <div class="container">
     <h4>Library:</4>
-        <li>pip install flet</li>
-        <li>pip install virtualenv</li>
-        <li>pip instalar google-generativeai</li>
-        <li>pip instalar python-dotenv</li>
+        <li>pip install flet </li>
+        <li>pip install virtualenv </li>
+        <li>pip instalar google-generativeai </li>
+        <li>pip instalar python-dotenv </li>
 </div>
 
 <div class="container">
     <h4>Virtual environment:</4>
-        <li>\venv\Scripts\activate</li>
+        <li>\venv\Scripts\activate </li>
 </div>
 </section>
         
