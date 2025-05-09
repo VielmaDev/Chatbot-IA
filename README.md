@@ -16,12 +16,7 @@
 </div>
 
 <div class="container">
-    <h4>virtual environment activation:</4>
-        <li>\venv\Scripts\activate</li>
-</div>
-
-<div class="container">
-    <h4>API_KEY:</4>
+    <h4>AI | API_KEY:</4>
     <ol>Para interactuar con Gemini AI, se debe registrar y solicitar una API_KEY en: https://ai.google.dev/aistudio?hl=es-419</ol>
 </div>
 
@@ -31,6 +26,11 @@
         <li>pip install virtualenv</li>
         <li>pip instalar google-generativeai</li>
         <li>pip instalar python-dotenv</li>
+</div>
+
+<div class="container">
+    <h4>virtual environment activation:</4>
+        <li>\venv\Scripts\activate</li>
 </div>
 </section>
         
