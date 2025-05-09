@@ -11,7 +11,7 @@
 </div>
 
 <div class="container">
-    <h4>Technical aspects</h4>
+    <h4>Aspectos Técnicos</h4>
 </div>
 
 <div class="container">
