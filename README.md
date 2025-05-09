@@ -19,8 +19,13 @@
     <li>Flet</li>
 </div>
 
+div class="container">
+    <h4>AI:</4>
+    <ol>Gemini AI versión 2.0 flash</ol>
+</div>
+
 <div class="container">
-    <h4>AI / API_KEY:</4>
+    <h4>API_KEY:</4>
     <ol>Para interactuar con Gemini AI, se debe registrar y solicitar una API_KEY en: https://ai.google.dev/aistudio?hl=es-419</ol>
 </div>
 
