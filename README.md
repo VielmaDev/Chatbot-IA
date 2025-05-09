@@ -12,8 +12,7 @@
 </div>
 
 <div class="container">
-    <h4>Lenguage and Framework:</4>
-    <li>Python</li>
+    <h4>Framework:</4>
     <li>Flet</li>
 </div>
     
