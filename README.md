@@ -21,12 +21,12 @@
 
 <div class="container">
     <h4>AI:</4>
-    <li>Gemini AI versión 2.0 flash</li>
+    <li>Google Gemini AI versión 2.0 flash</li>
 </div>
 
 <div class="container">
     <h4>API_KEY:</4>
-    <li>Para interactuar con Gemini AI, se debe registrar y solicitar una API_KEY en: https://ai.google.dev/aistudio?hl=es-419</li>
+    <li>Registro y solicitud de API_KEY en: https://ai.google.dev/aistudio?hl=es-419</li>
 </div>
 
 <div class="container">
