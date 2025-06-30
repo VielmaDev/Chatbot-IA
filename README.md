@@ -7,8 +7,7 @@
 
 <section>
 <div class="container">
-    <p>La app Gaby es un Chatbot sencillo que se conecta con la AI de Google llamada Gemini y permite mantener en tiempo real un chat de preguntas y respuestas.</p>
-    <p>Este Chatbot cuenta con un selector de módulos, así como, un contenedor que permite escribir y ver los chats que se mantienen con la AI. </p>
+    <p>Gaby es un Chatbot sencillo creado para conectarse con la AI de Google llamada Gemini y permite mantener en tiempo real un chat de preguntas y respuestas.</p>
 </div>
 
 <div class="container">
@@ -38,6 +37,6 @@
 <footer>
     <div class="container">
         <h4>Runserver:</h4>
-             <li>En la terminal de VSCode usar el comando: <b>python gemini.py </li> 
+             <li>En la terminal de VSCode usar el comando: flet gemini.py </li> 
     </div>
 </footer>
