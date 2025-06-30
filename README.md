@@ -7,7 +7,7 @@
 
 <section>
 <div class="container">
-    <p>Gaby es un Chatbot sencillo creado para conectarse con la AI de Google llamada Gemini y permite mantener en tiempo real un chat de preguntas y respuestas.</p>
+    <p>Gaby es un Chatbot sencillo creado para conectarse con la AI de Google Gemini y permite mantener en tiempo real un chat de preguntas y respuestas.</p>
 </div>
 
 <div class="container">
