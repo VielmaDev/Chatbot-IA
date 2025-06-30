@@ -1,6 +1,7 @@
 <caption>
     <div class="container">
-        <h1>Chatbot GABY</h1>
+        <h1>Chatbot AI</h1>
+        <img src="https://github.com/user-attachments/assets/db5772c8-1fdb-42b3-ab8a-599b42d2171a)">
     </div>
 </caption>
 
