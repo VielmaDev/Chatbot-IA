@@ -37,6 +37,6 @@
 <footer>
     <div class="container">
         <h4>Runserver:</h4>
-             <li>En la terminal de VSCode usar el comando: flet gemini.py </li> 
+             <li>En la terminal de VSCode usar el comando: flet run gemini.py </li> 
     </div>
 </footer>
